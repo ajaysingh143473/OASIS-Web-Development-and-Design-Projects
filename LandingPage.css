@@ -1,0 +1,70 @@
+.bod {
+    background-color:rgb(20, 20, 20) ;
+}
+.text-center{
+    color: white;
+}
+.navbar{
+    
+    margin-left: 120px;
+    margin-right: 120px;
+    padding-bottom: 0px;
+}
+h4:hover{
+    color: rgb(196, 244, 5);
+}
+li{
+    color: white;
+    padding-left: 20px;
+}
+a{
+    text-decoration: none;
+}
+ul {
+    color: white;
+    list-style-type: none; 
+    display: flex;
+}
+.btn{
+    margin-right: 20px;
+}
+.h12{
+    color:white;
+    text-align: center;
+}
+.h12:hover{
+    color:rgb(9, 189, 243);
+}
+p{
+    color: aliceblue;
+}
+.h16{
+    color:rgb(243, 6, 6);
+}
+.h17{
+    color:rgb(61, 243, 6);
+}
+.h13{
+    color: white;
+}
+.h14{
+    color: blueviolet;
+}
+.a21{
+    text-decoration: none;
+    text-align: center;
+    
+}
+.a21:hover{
+    color: yellow;
+
+}
+.h11{
+    text-align: center;
+    color: purple;
+    margin-bottom: 100px;
+}
+.h123{
+    text-align: left;
+    color: white;
+}
